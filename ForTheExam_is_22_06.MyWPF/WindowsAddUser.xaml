@@ -1,0 +1,19 @@
+﻿<Window x:Class="ForTheExam_is_22_06.MyWPF.WindowsAddUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ForTheExam_is_22_06.MyWPF"
+        mc:Ignorable="d"
+        Title="WindowsAddUser" Height="450" Width="800">
+    <Grid>
+        <!-- // track-->
+        <StackPanel>
+            <TextBox x:Name="tbName"></TextBox>
+            <TextBox x:Name="tbLogin"></TextBox>
+            <TextBox x:Name="tbPassword"></TextBox>
+            <TextBox x:Name="tbPassword2"></TextBox>
+            <Button x:Name="btnAdd" Click="btnAdd_Click">Регистриция</Button>
+        </StackPanel>
+    </Grid>
+</Window>
