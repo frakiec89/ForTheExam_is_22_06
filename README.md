@@ -1,7 +1,6 @@
 <H1>БД
 <H2>ОКНО  
 <H2>Консоль 
-<H2>
-![image](https://github.com/frakiec89/ForTheExam_is_22_06.MyConsole/assets/45938852/cc7e234b-d4aa-4685-b015-c957415bb1cd)
-[image](https://github.com/frakiec89/ForTheExam_is_22_06.MyConsole/assets/45938852/ebbd6ca1-279b-43a4-a5ba-c7ed7bef1151)
 
+![image](https://github.com/frakiec89/ForTheExam_is_22_06.MyConsole/assets/45938852/62d9673e-937f-43bb-b14c-0566ef395580)
+![image](https://github.com/frakiec89/ForTheExam_is_22_06.MyConsole/assets/45938852/17fd14a8-b04f-48c8-a2dd-305d888b9a70)
